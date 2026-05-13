@@ -1,0 +1,35 @@
+body{
+    background-color: lightcyan;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+.titulo{
+    color: brown;
+}
+
+h2{
+    font-size: 4rem;
+    margin: 20px 0;
+}
+button{
+    width: 60px;
+    height: 60px;
+    font-size: 1.5rem;
+    margin: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+    color: aliceblue;
+    border: none;
+}
+#btn_menos{
+    background-color: red;
+}
+#btn_mas{
+    background-color: green;
+}
+#btn_reset{
+    background-color: aqua;
+    width: 80px;
+    color: black;
+}
